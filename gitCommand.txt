@@ -1,0 +1,11 @@
+Git init
+Ls
+Ls - a
+Git status
+Git add chapter.txt
+Git commit -m "Complete Chapter 1"
+
+Git add . 
+Git commit -m "Complete chapter 2 and 3"
+Git status
+Git log
